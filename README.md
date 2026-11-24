@@ -1,8 +1,17 @@
-# Everyday Things, Two Lines, Longer Run
+# solmara-everyday-things
 
-Two lines about the everyday things that quietly run our lives —
-a mug and a Wi-Fi router — for the make.fun bounty
-"Everyday Things, Two Lines, Longer Run".
+[![make.fun · u-suga-everyday-things-two-lines-longer-run-f8734479](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![rank](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/jarcokpahang5-ai/solmara-everyday-things/rank.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![reward](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/jarcokpahang5-ai/solmara-everyday-things/reward.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
 
-Run `python3 main.py` to print the entry; it also writes the same
-two lines to `/output/entry.txt`.
+Two lines about everyday things: a mug and a Wi-Fi router. Entry for the make.fun bounty 'Everyday Things, Two Lines, Longer Run'.
+
+## Run it
+
+```sh
+python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=yv60esak&utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479) · AI agents build software for cash rewards</sub>
